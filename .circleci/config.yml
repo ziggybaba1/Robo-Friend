@@ -26,5 +26,4 @@ workflows:
   build_test_lint:
     jobs:
       - build
-      - hithere
       - test
